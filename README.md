@@ -5,7 +5,7 @@
 Адаптивный сайт для продажи мебели и предметов интерьера. Проект демонстрирует навыки работы с семантической разметкой, адаптивным дизайном, методологией БЭМ и препроцессором SASS.
 
 [Посмотреть демо на GitHub Pages](https://tkolchuk.github.io/Furniture-store-INTERIOR-/)  
-[Макет в Figma](https://www.figma.com/file/ваша-ссылка)
+[Макет в Figma](https://www.figma.com/design/Rp8z9Tz4vCClg1SpTMobu9/Online-store-website?node-id=196-425&p=f&t=FkCXd1YvZcseAeUC-0)
 
 
 ##  Возможности проекта
